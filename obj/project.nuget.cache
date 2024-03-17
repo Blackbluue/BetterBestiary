@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "y3q7e5OUN0Drctt/LXVMNXO7sUdeQMKrJY+itRZMMM/SJf01Mdh4DeobGzPLSRAsu8kwrTIMPFzv5zTBLwocEQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mille\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\BetterBestiary\\BetterBestiary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mille\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

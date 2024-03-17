@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BetterBestiary", "BetterBestiary.csproj", "{B03F5AB8-3563-4C08-B411-89A9015664E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B03F5AB8-3563-4C08-B411-89A9015664E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B03F5AB8-3563-4C08-B411-89A9015664E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B03F5AB8-3563-4C08-B411-89A9015664E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B03F5AB8-3563-4C08-B411-89A9015664E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CB3EC8C-0809-47C7-A1D0-C582862EA0B6}
+	EndGlobalSection
+EndGlobal
